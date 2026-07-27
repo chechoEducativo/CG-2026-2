@@ -46,7 +46,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: looping
-    value: 1
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: prewarm
@@ -262,7 +262,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: InitialModule.startLifetime.scalar
-    value: 1
+    value: 5
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: InitialModule.startLifetime.minScalar
@@ -434,7 +434,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: InitialModule.startSpeed.scalar
-    value: 0
+    value: 5
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: InitialModule.startSpeed.minScalar
@@ -2294,7 +2294,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: ShapeModule.type
-    value: 4
+    value: 0
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: ShapeModule.angle
@@ -2626,7 +2626,7 @@ Preset:
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: ShapeModule.radius.value
-    value: 1
+    value: 0.0001
     objectReference: {fileID: 0}
   - target: {fileID: 0}
     propertyPath: ShapeModule.radius.mode
